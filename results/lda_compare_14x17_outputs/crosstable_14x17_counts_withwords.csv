@@ -1,0 +1,15 @@
+,"T1 (information, professional)","T2 (community, group)","T3 (economic, public)","T4 (class, occupation)","T5 (child, family)","T6 (gender, work)","T7 (urban, rural)","T8 (participation, activity)","T9 (search, wage)","T10 (migrant, country)","T11 (mobility, education)","T12 (tie, contact)","T13 (care, patient)","T14 (risk, stress)","T15 (organization, satisfaction)","T16 (support, work)","T17 (skill, organization)"
+"T1 (professional, networking)",116,0,3,1,10,2,0,4,3,1,1,10,3,1,12,10,21
+"T2 (organization, satisfaction)",6,3,3,5,2,3,0,5,0,1,3,7,10,49,114,59,12
+"T3 (career, teacher)",1,3,3,2,7,4,5,1,1,2,4,10,3,0,16,13,3
+"T4 (tie, information)",20,1,0,9,4,2,3,7,51,0,1,75,2,1,14,4,1
+"T5 (performance, knowledge)",14,2,3,3,4,1,1,22,1,0,0,3,2,0,37,15,16
+"T6 (community, local)",7,49,64,34,5,1,70,3,9,3,1,5,7,2,2,7,6
+"T7 (risk, gender)",1,1,4,12,1,5,2,0,0,4,8,2,4,43,0,8,1
+"T8 (service, public)",6,5,20,8,6,3,8,6,4,1,0,3,14,0,7,4,13
+"T9 (child, family)",1,7,1,3,56,10,2,1,3,1,7,0,16,13,0,4,3
+"T10 (migrant, economic)",0,11,16,14,4,3,36,3,21,187,4,17,0,2,2,4,4
+"T11 (group, education)",2,36,21,11,10,7,6,0,31,2,4,14,1,2,0,5,8
+"T12 (work, participation)",5,18,3,5,10,14,4,19,6,2,0,3,36,6,1,13,10
+"T13 (gender, status)",0,10,12,10,12,54,2,1,22,1,8,39,2,5,2,3,0
+"T14 (care, stress)",3,4,4,1,6,2,0,0,0,1,0,0,50,11,6,6,3
